@@ -1,0 +1,2 @@
+rootProject.name = "AliMot_Livary"
+include ':app'
